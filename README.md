@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, EU SOU João Mateus Arcolino 
 
-<!--
-**MateusArcolino-Dev/MateusArcolino-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Estudante de ADS e entusiasta de programação. Foco atual: Python, Java, lógica e automação.
 
-Here are some ideas to get you started:
+## Quem sou eu
+-  Estudante de *Análise e Desenvolvimento de Sistemas (EAD)*
+-  Interesse: Automação e ML (Machine learning)
+-  Experiência: Controle e alimentação de sistemas de estoque/venda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+- Tenho connhecimento basicos em:
+Python · Git · GitHub · Jupyter
+
+## Projetos em destaque
+- [calculadora-cli](https://github.com/SEU_USUARIO/calculadora-cli)
+  
+## Contato
+- LinkedIn: https://www.linkedin.com/in/joao-arcolino/
+- Email: mateus.arcolino@gmail.com
